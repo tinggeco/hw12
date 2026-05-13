@@ -1,0 +1,8 @@
+﻿Metric,Value
+SWCB landslide pixels,4011.0
+RF Bare/Landslide pixels,100542.0
+Intersection pixels,320.0
+Union pixels,104233.0
+Recall,0.0798
+Precision,0.0032
+IoU,0.0031
